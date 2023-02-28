@@ -1,0 +1,234 @@
+Id,Country_Code,Region
+78,GBR,UK
+220,USA,USA
+43,CHA,Chad
+56,CUB,Cuba
+71,FIJ,Fiji
+89,GUM,Guam
+98,IRI,Iran
+100,IRQ,Iraq
+117,LAO,Laos
+138,MLI,Mali
+157,OMA,Oman
+161,PER,Peru
+207,TOG,Togo
+14,ARU,Aruba
+24,BEN,Benin
+44,CHI,Chile
+45,CHN,China
+92,HKG,China
+64,EGY,Egypt
+76,GAB,Gabon
+84,GHA,Ghana
+91,HAI,Haiti
+96,IND,India
+104,ITA,Italy
+108,JPN,Japan
+110,KEN,Kenya
+119,LBA,Libya
+139,MLT,Malta
+155,NRU,Nauru
+150,NEP,Nepal
+153,NIG,Niger
+164,PLW,Palau
+170,QAT,Qatar
+178,SAM,Samoa
+67,ESP,Spain
+193,SUD,Sudan
+199,SYR,Syria
+214,UAR,Syria
+202,TGA,Tonga
+228,YAR,Yemen
+229,YEM,Yemen
+230,YMD,Yemen
+9,ANG,Angola
+28,BIZ,Belize
+26,BHU,Bhutan
+31,BOL,Boliva
+33,BRA,Brazil
+35,BRU,Brunei
+40,CAN,Canada
+151,NFL,Canada
+57,CYP,Cyprus
+73,FRA,France
+77,GAM,Gambia
+55,CRT,Greece
+85,GRE,Greece
+88,GUI,Guinea
+90,GUY,Guyana
+102,ISR,Israel
+107,JOR,Jordan
+114,KOS,Kosovo
+116,KUW,Kuwait
+118,LAT,Latvia
+131,MAW,Malawi
+134,MEX,Mexico
+141,MON,Monaco
+154,NOR,Norway
+159,PAN,Panama
+166,POL,Poland
+3,ROC,Russia
+70,EUN,Russia
+175,RUS,Russia
+218,URS,Russia
+176,RWA,Rwanda
+179,SCG,Serbia
+189,SRB,Serbia
+231,YUG,Serbia
+197,SWE,Sweden
+208,TPE,Taiwan
+211,TUR,Turkey
+212,TUV,Tuvalu
+215,UGA,Uganda
+232,ZAM,Zambia
+6,ALB,Albania
+7,ALG,Algeria
+8,AND,Andorra
+10,ANT,Antigua
+13,ARM,Armenia
+17,AUT,Austria
+19,BAH,Bahamas
+34,BRN,Bahrain
+29,BLR,Belarus
+23,BEL,Belgium
+25,BER,Bermuda
+22,BDI,Burundi
+51,COM,Comoros
+54,CRO,Croatia
+5,AHO,Curacao
+59,DEN,Denmark
+63,ECU,Ecuador
+65,ERI,Eritrea
+68,EST,Estonia
+72,FIN,Finland
+81,GEO,Georgia
+74,FRG,Germany
+80,GDR,Germany
+83,GER,Germany
+177,SAA,Germany
+86,GRN,Grenada
+94,HUN,Hungary
+101,ISL,Iceland
+99,IRL,Ireland
+106,JAM,Jamaica
+1,LBN,Lebanon
+123,LIB,Lebanon
+122,LES,Lesotho
+120,LBR,Liberia
+132,MDA,Moldova
+129,MAR,Morocco
+145,MYA,Myanmar
+146,NAM,Namibia
+152,NGR,Nigeria
+0,EOR,Refugee
+173,ROU,Romania
+180,SEN,Senegal
+188,SOM,Somalia
+210,TUN,Tunisia
+216,UKR,Ukraine
+219,URU,Uruguay
+222,VAN,Vanuatu
+224,VIE,Vietnam
+226,VNM,Vietnam
+21,BAR,Barbados
+32,BOT,Botswana
+36,BUL,Bulgaria
+39,CAM,Cambodia
+47,CMR,Cameroon
+50,COL,Colombia
+60,DJI,Djibouti
+61,DMA,Dominica
+69,ETH,Ethiopia
+93,HON,Honduras
+112,KIR,Kiribati
+128,MAL,Malaysia
+130,MAS,Malaysia
+147,NBO,Malaysia
+133,MDV,Maldives
+135,MGL,Mongolia
+158,PAK,Pakistan
+160,PAR,Paraguay
+167,POR,Portugal
+196,SVK,Slovakia
+185,SLO,Slovenia
+195,SUR,Suriname
+200,TAN,Tanzania
+203,THA,Thailand
+209,TTO,Trinidad
+227,WIF,Trinidad
+171,RHO,Zimbabwe
+233,ZIM,Zimbabwe
+12,ARG,Argentina
+11,ANZ,Australia
+16,AUS,Australia
+87,GUA,Guatemala
+95,INA,Indonesia
+125,LTU,Lithuania
+137,MKD,Macedonia
+143,MRI,Mauritius
+148,NCA,Nicaragua
+163,PLE,Palestine
+2,SGP,Singapore
+182,SIN,Singapore
+190,SRI,Sri Lanka
+198,SWZ,Swaziland
+223,VEN,Venezuela
+18,AZE,Azerbaijan
+20,BAN,Bangladesh
+52,CPV,Cape Verde
+53,CRC,Costa Rica
+109,KAZ,Kazakhstan
+111,KGZ,Kyrgyzstan
+126,LUX,Luxembourg
+127,MAD,Madagascar
+144,MTN,Mauritania
+75,FSM,Micronesia
+140,MNE,Montenegro
+142,MOZ,Mozambique
+186,SMR,San Marino
+181,SEY,Seychelles
+204,TJK,Tajikistan
+221,UZB,Uzbekistan
+4,AFG,Afghanistan
+66,ESA,El Salvador
+46,CIV,Ivory Coast
+149,NED,Netherlands
+156,NZL,New Zealand
+168,PRK,North Korea
+162,PHI,Philippines
+169,PUR,Puerto Rico
+183,SKN,Saint Kitts
+121,LCA,Saint Lucia
+113,KOR,South Korea
+191,SSD,South Sudan
+194,SUI,Switzerland
+206,TLS,Timor-Leste
+37,BUR,Burkina Faso
+49,COK,Cook Islands
+115,KSA,Saudi Arabia
+184,SLE,Sierra Leone
+174,RSA,South Africa
+205,TKM,Turkmenistan
+79,GBS,Guinea-Bissau
+124,LIE,Liechtenstein
+225,VIN,Saint Vincent
+15,ASA,American Samoa
+41,CAY,Cayman Islands
+30,BOH,Czech Republic
+58,CZE,Czech Republic
+201,TCH,Czech Republic
+187,SOL,Solomon Islands
+136,MHL,Marshall Islands
+165,PNG,Papua New Guinea
+82,GEQ,Equatorial Guinea
+42,CGO,Republic of Congo
+62,DOM,Dominican Republic
+103,ISV,"Virgin Islands, US"
+213,UAE,United Arab Emirates
+172,ROT,Refugee Olympics Team
+192,STP,Sao Tome and Principe
+27,BIH,Bosnia and Herzegovina
+105,IVB,"Virgin Islands, British"
+38,CAF,Central African Republic
+97,IOA,Individual Olympic Athletes
+48,COD,Democratic Republic of the Congo
